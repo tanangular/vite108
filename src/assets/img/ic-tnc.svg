@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.2 (78181) - https://sketchapp.com -->
+    <title>1D7B9FDA-C43F-4C94-8636-B4FD30E31B31</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="0.0657452632 0.0173684211 13.6922365 0.0173684211 13.6922365 3.14421684 0.0657452632 3.14421684"></polygon>
+        <polygon id="path-3" points="9.08354324e-06 0.0552161404 11.6922251 0.0552161404 11.6922251 6.87017544 9.08354324e-06 6.87017544"></polygon>
+    </defs>
+    <g id="&gt;DSL---DMS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DSL-Mobile---Debt-Management-01.02.03---Payment-Method---QR-How-to" transform="translate(-295.000000, -397.000000)">
+            <g id="Group-2" transform="translate(56.000000, 398.000000)">
+                <g id="65" transform="translate(240.000000, 0.000000)">
+                    <g id="cate-Copy-79" fill="#FFFFFF" fill-rule="nonzero" stroke="#E6E8F2" stroke-width="0.5">
+                        <circle id="Oval" cx="12" cy="12" r="12"></circle>
+                    </g>
+                    <g id="Page-1" transform="translate(4.500000, 6.450000)">
+                        <g id="Group-3" transform="translate(0.926316, 0.059825)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-2"></g>
+                            <path d="M0.0657452632,3.14421684 C0.0657452632,3.14421684 0.905218947,0.114701053 5.54065754,0.0173607018 L13.6922365,0.0173607018 C13.6922365,0.0173607018 12.7189874,3.13202035 8.27815228,3.14421684 L0.0657452632,3.14421684 Z" id="Fill-1" fill="#FF6600" mask="url(#mask-2)"></path>
+                        </g>
+                        <g id="Group-6" transform="translate(0.000000, 3.842281)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <g id="Clip-5"></g>
+                            <path d="M9.3383207,0.0552161404 C9.3383207,0.0552161404 12.0027909,0.481089825 11.6621382,2.3425214 C11.3214084,4.20403018 8.52316281,6.18719509 5.35987158,6.71033193 C2.19650316,7.23346877 0.809576842,6.3696793 0.249927719,5.60315298 C-0.309721404,4.83662667 0.128194386,3.57135649 0.992061053,2.74400211 C1.85585053,1.91664772 3.91204,0.383749474 6.91716281,0.0552161404 C6.91716281,0.0552161404 5.72484,0.225581053 4.88536632,1.84370035 C4.04581544,3.46181965 3.53487509,4.90965123 2.52503649,5.29901263 C2.52503649,5.29901263 4.56902947,5.67610035 6.3210014,4.49597404 C6.3210014,4.49597404 7.25835579,3.87256351 7.80534526,2.53712491 C8.34785754,1.21257053 9.05826456,0.135342456 9.3383207,0.0552161404" id="Fill-4" fill="#000000" mask="url(#mask-4)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+{
+  "name": "vite108",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.3.7",
+    "vite-plugin-windicss": "^0.16.7",
+    "windicss": "^3.1.3"
+  }
+}

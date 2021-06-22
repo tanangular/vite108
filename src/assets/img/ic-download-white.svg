@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.2 (78181) - https://sketchapp.com -->
+    <title>75B9BCFE-2BA2-46A9-92E2-BE5EE18D07B0</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M15,12 L15,14.25 C15,15.525 14.025,16.5 12.75,16.5 L2.25,16.5 C0.975,16.5 0,15.525 0,14.25 L0,12 C0,11.55 0.3,11.25 0.75,11.25 C1.2,11.25 1.5,11.55 1.5,12 L1.5,14.25 C1.5,14.7 1.8,15 2.25,15 L12.75,15 C13.2,15 13.5,14.7 13.5,14.25 L13.5,12 C13.5,11.55 13.8,11.25 14.25,11.25 C14.7,11.25 15,11.55 15,12 Z M6.975,11.775 C7.05,11.85 7.125,11.925 7.2,11.925 C7.275,12 7.425,12 7.5,12 C7.575,12 7.725,12 7.8,11.925 C7.875,11.85 7.95,11.85 8.025,11.775 L11.025,8.775 C11.325,8.475 11.325,8.025 11.025,7.725 C10.725,7.425 10.275,7.425 9.975,7.725 L8.25,9.45 L8.25,0.75 C8.25,0.3 7.95,0 7.5,0 C7.05,0 6.75,0.3 6.75,0.75 L6.75,9.45 L5.025,7.725 C4.725,7.425 4.275,7.425 3.975,7.725 C3.675,8.025 3.675,8.475 3.975,8.775 L6.975,11.775 Z" id="path-1"></path>
+    </defs>
+    <g id="&gt;DSL---DMS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DSL-Mobile---Debt-Management-01.02.03---Payment-Method---QR-How-to" transform="translate(-217.000000, -612.000000)">
+            <g id="Button/Fill/Medium/btn-blue-primary" transform="translate(195.000000, 599.000000)">
+                <g id="Group" transform="translate(22.000000, 11.000000)">
+                    <g id="Icon/FeatherIcon/ic-f-download" transform="translate(0.000000, 2.000000)">
+                        <g id="icon-/-download">
+                            <g transform="translate(1.500000, 0.750000)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                                <g id="Color/Fill/Grey-Darkest" mask="url(#mask-2)" fill="#FFFFFF">
+                                    <g transform="translate(-1.500000, -0.750000)">
+                                        <rect x="0" y="0" width="18" height="18"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+{
+  "common": {
+    "username": "username",
+    "password": "password",
+    "login": "login",
+    "forgot_password": "forgot password",
+    "for_typical": "user normal",
+    "edu": "education"
+  },
+  "login": {
+    "title_edu": "login to agent",
+    "description_edu": "To proceed with the preparation of the loan agreement / withdrawal confirmation form"
+  }
+}

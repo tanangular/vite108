@@ -1,0 +1,3 @@
+.button {
+  @apply *btn *btn-green border-gray-200 !important;
+}

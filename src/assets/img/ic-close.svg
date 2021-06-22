@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="24px" viewBox="0 0 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.2 (78181) - https://sketchapp.com -->
+    <title>5284AAB7-2E4D-411E-AE70-10386B333639</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M13.7,12.3 C14.1,12.7 14.1,13.3 13.7,13.7 C13.5,13.9 13.3,14 13,14 C12.7,14 12.5,13.9 12.3,13.7 L7,8.4 L1.7,13.7 C1.5,13.9 1.3,14 1,14 C0.7,14 0.5,13.9 0.3,13.7 C-0.1,13.3 -0.1,12.7 0.3,12.3 L5.6,7 L0.3,1.7 C-0.1,1.3 -0.1,0.7 0.3,0.3 C0.7,-0.1 1.3,-0.1 1.7,0.3 L7,5.6 L12.3,0.3 C12.7,-0.1 13.3,-0.1 13.7,0.3 C14.1,0.7 14.1,1.3 13.7,1.7 L8.4,7 L13.7,12.3 Z" id="path-1"></path>
+    </defs>
+    <g id="&gt;DSL---DMS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DSL---Debt-Management-01.02.03---Payment-Method---QR-How-to" transform="translate(-815.000000, -118.000000)">
+            <g id="icon/ic-x-2" transform="translate(815.000000, 118.000000)">
+                <g id="Icon/FeatherIcon/ic-f-x">
+                    <g id="icon-/-x" transform="translate(5.000000, 5.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        <g id="Color/Fill/Grey" mask="url(#mask-2)" fill="#C5C9DB">
+                            <g transform="translate(-5.000000, -5.000000)">
+                                <rect x="0" y="0" width="24" height="24"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
